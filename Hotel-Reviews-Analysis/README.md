@@ -29,7 +29,7 @@ There are 2 ways to run this project:
 
   
 
-> Once both the files are uploaded, you are free to run the notebook online and view the insights gathered by me `:star_struck:`.
+> Once both the files are uploaded, you are free to run the notebook online and view the insights gathered by me :star_struck:.
 
   
 
@@ -37,7 +37,7 @@ There are 2 ways to run this project:
 
   
 
-> Make sure python is rightly installed in the system using the following command -> ##python -v
+> Make sure python is rightly installed in the system using the following command -> python -v
 
   
 
