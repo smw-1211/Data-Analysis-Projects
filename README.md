@@ -6,11 +6,13 @@ Data Analysis is the process of cleaning, analyzing, interpreting, and visualizi
 
 - **Super-Store-Analysis:** Analysed the data of a super store and answered 3 factual questions based on the dataset.
 - **Hotel-Reviews-Analysis:** Analysed about 20000 reviews about different hotels which I have scraped from TripAdvisor website.
+- **Baby-Names-Analysis:** Gathered about 10,500 names of babies kept in different of USA and analysed the trend and the occurence rate.
 
 ## Technologies Used
 
-- **Python:** Flask is used as the web framework.
+- **Python:** Python is used for data analysis.
 - **Data Extraction tools** Selenium or Beautiful-Soup for web-crawling.
+- **Data Visualization tool** Tableau.
   
 ## How can you setup the repo..
 
