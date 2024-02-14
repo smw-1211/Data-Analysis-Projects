@@ -49,12 +49,6 @@ There are 2 ways to run this project:
 
 
 
-## Insights of the model
-
-> Here are some images of the output once we run the model
-
-![data-insights](./assets/insights-1.JPG)
-  
 
 ## Issues
 
