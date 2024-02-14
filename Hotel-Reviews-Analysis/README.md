@@ -27,9 +27,9 @@ There are 2 ways to run this project:
 
 > Once you upload the notebook, ensure you add in the csv file to the same.
 
-  
+> Please note, you will have to edit the file path of csv with your local file path.
 
-> Once both the files are uploaded, you are free to run the notebook online and view the insights gathered by me :star_struck:.
+> Once both the files are uploaded and the path is edited, you are free to run the notebook online and view the insights gathered by me :star_struck:.
 
   
 
@@ -47,6 +47,13 @@ There are 2 ways to run this project:
 
 > Once done, run all the cells of the notebook and check the insights.
 
+
+
+## Insights of the model
+
+> Here are some images of the output once we run the model
+
+![data-insights](./assets/insights-1.JPG)
   
 
 ## Issues
