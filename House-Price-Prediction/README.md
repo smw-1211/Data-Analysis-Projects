@@ -48,6 +48,27 @@ There are 2 ways to run this project:
 > Once done, run all the cells of the notebook and check the insights.
 
 
+## Insights
+
+### Dataset Description
+
+#### Insights of the dataset gathered by me.
+> The image below lists the description of insights gathered from the dataset after performing data processing techniques.
+
+![dataset-insights](./assets/data-1.png)
+
+#### Histogram plot.
+
+> This image shows depiction of dataset description through histogram with bins=50.
+
+![histogram-plot-insights-of-data](./assets/data-2.png)
+
+#### With this I am trying to visualize the relation of correlation values.
+
+> The correlation value for grade, sqft_living,sqft_living15, sqft_above ,bathrooms, lat, view, bedrooms, floors are above 0.3 and other features have much less coefficients.
+
+![image-showing-correlation](./assets/data-3.png)
+
 ## Issues
   
 
