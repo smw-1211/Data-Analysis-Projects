@@ -49,3 +49,50 @@ There are 2 ways to run this project:
 
 > Once done, run all the cells of the notebook and check the insights.
 
+## Insights
+
+### Dashboard
+
+![dashboard-insights](./assets/dashboard1.png)
+
+> In this dashboard, I have included all the insights which I have drawn from this data mainly focusing on -
+
+* So2 concentration depleted from every state.
+
+* Yearwise variance in So2 concentration.
+
+* Top 10 states of India with highest AQI and many more..
+
+### Maximum So2 Concentration of Indian States
+
+> This figure helps us to analyze the maximum So2 concentration of different states of India.
+
+![maximum-So2](./assets/insights1.JPG)
+
+### Average So2 Content
+
+> This figure helps us to understand average So2 concentration from different states. More dark is the colour, more is the So2 concentration.
+
+![maximum-So2](./assets/insights2.png)
+
+### So2 and No2 Concentration Variance
+
+> This image illustrates the comparison of So2 and No2 release content in last 20years.
+
+![so2-no2 concentration](./assets/insights3.JPG)
+
+### SPM Concentration Analysis
+
+> These 2 images helps to understand the Maximum and Avg SPM concentration.
+
+![SPM avg concentration](./assets/insights4.JPG) ![SPM Max concentration](./assets/insights5.png) 
+
+### Future Scope
+
+> There are many more insights that can be derived and be of a great help.
+
+## Credits
+
+
+
+An initiative With :heart: from [Soham Wattamwar ](https://www.linkedin.com/in/soham-wattamwar-9b790119a)
