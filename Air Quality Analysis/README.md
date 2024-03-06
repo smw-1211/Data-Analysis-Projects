@@ -85,11 +85,24 @@ There are 2 ways to run this project:
 
 > These 2 images helps to understand the Maximum and Avg SPM concentration.
 
-![SPM avg concentration](./assets/insights4.JPG) ![SPM Max concentration](./assets/insights5.png) 
+![SPM avg and max concentration](./assets/insights7.png) ![word-cloud-SPM concentration](./assets/insights6.png)
+  
 
-### Future Scope
 
-> There are many more insights that can be derived and be of a great help.
+## Future Scope
+
+
+
+> There are many more insights that can be derived and be of a great help. You are welcome to create or fork the repo and contribute all the insights which you derive :smiley:
+
+
+## Give it a Star
+
+  
+
+If you find this repo useful , give it a star :star: so as many people can get to know it.
+
+
 
 ## Credits
 
