@@ -8,6 +8,7 @@ Data Analysis is the process of cleaning, analyzing, interpreting, and visualizi
 - **Hotel-Reviews-Analysis:** Analysed about 20000 reviews about different hotels which I have scraped from TripAdvisor website.
 - **Baby-Names-Analysis:** Gathered about 10,500 names of babies kept in different states of USA and analysed the trend and the occurence rate.
 - **House-Price-Prediction:** Analysed about 21,000 house records which helps in analysing the house sale prices for King County including homes sold between May 2014 and May 2015 .
+- **Air-Quality-Index Analysis:** The higher the AQI value, the greater the level of air pollution and the greater the health concern. This project helps to analyse the same using NDSAP portal's data of 435743 records.
 
 ## Technologies Used
 
