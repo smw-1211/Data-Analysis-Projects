@@ -1,8 +1,10 @@
-# Data-Analysis-Projects
+# Exploring Data-Analysis
+
+> This repo is a collection of data analysis projects.
 
 Data Analysis is the process of cleaning, analyzing, interpreting, and visualizing data with the use of business intelligence tools and various other techniques. Tools for data analysis assist us in finding pertinent information that promotes more intelligent and successful decision-making. It is the methodical process of describing and illuminating, condensing and summarizing, and evaluating data using statistical and/or logical approaches. While statistical techniques may be used in data analysis for qualitative research, analysis frequently takes the form of an iterative process in which data is continuously gathered and examined nearly simultaneously. 
 
-## Types of Data Analysis Projects Involved:
+## Projects Involved:
 
 - **Super-Store-Analysis:** Analysed the data of a super store and answered 3 factual questions based on the dataset.
 - **Hotel-Reviews-Analysis:** Analysed about 20000 reviews about different hotels which I have scraped from TripAdvisor website.
