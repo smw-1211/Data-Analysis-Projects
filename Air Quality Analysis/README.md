@@ -93,7 +93,7 @@ There are 2 ways to run this project:
 
 
 
-> There are many more insights that can be derived and be of a great help. You are welcome to create or fork the repo and contribute all the insights which you derive :smiley:
+> There are many more insights that can be derived in this domain which ultimately can be of a great help. You are welcome to create or fork the repo and contribute all the insights which you derive :smiley:
 
 
 ## Give it a Star
