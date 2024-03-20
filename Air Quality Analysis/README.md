@@ -5,7 +5,7 @@
 This data is combined(across the years and states) version of the Historical Daily Ambient Air Quality Data released by the Ministry of Environment and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP).
       ROWS : 435743 COLUMNS :13
 
-We performed diffrent regression and classification techniques to predict the data and validate the data across years and created a dashboard with the help of Tableau to visualize the techniques across maps.
+We performed different regression and classification techniques to predict the data and validate the data across years and created a dashboard with the help of Tableau to visualize the techniques across maps.
 
 ## Installation  
 
