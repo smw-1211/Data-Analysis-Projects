@@ -47,7 +47,27 @@ There are 2 ways to run this project:
 
 > Once done, run all the cells of the notebook and check the insights.
 
+## Insights
 
+### Dataset Description
+
+![dataset-description](./assets/dataset.png)
+
+> This reviews data from Trip Advisor website has 21,000 rows with 2 different columns named as **Review** and **Rating**.
+
+### Ratings Chart
+
+> This image here shows the overview of ratings in the dataset where we observe more than **40%** with a ***5-Star*** rating .
+
+![overview-of-ratings](./assets/ratings.png)
+
+
+### Sentiments of a Review
+
+> With this image, you can find that after training our data and passing a review, it identifies whether the review is of type **Negative** or **Positive**.
+
+
+![identifying-sentiments-of-a-review](sentiments.png)
 
 
 ## Issues

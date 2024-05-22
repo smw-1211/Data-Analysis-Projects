@@ -31,3 +31,17 @@ A total of 10,500 records were analysed with 5 different column sets as **State*
 > Fig3. enhances the Top20 names of male and female both with maximum occurences within this year range.
 
 ![maximum-occurences-of-names](./assets/insights03.JPG)
+
+## Give it a Star
+
+  
+
+If you find this repo useful , give it a star :star: so as many people can get to know it.
+
+
+
+## Credits
+
+
+
+An initiative With :heart: from [Soham Wattamwar ](https://www.linkedin.com/in/soham-wattamwar-9b790119a)
