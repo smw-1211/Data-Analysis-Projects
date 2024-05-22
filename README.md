@@ -11,6 +11,7 @@ Data Analysis is the process of cleaning, analyzing, interpreting, and visualizi
 - **Baby-Names-Analysis:** Gathered about 10,500 names of babies kept in different states of USA and analysed the trend and the occurence rate.
 - **House-Price-Prediction:** Analysed about 21,000 house records which helps in analysing the house sale prices for King County including homes sold between May 2014 and May 2015 .
 - **Air-Quality-Index Analysis:** The higher the AQI value, the greater is the level of air pollution and thereby the health concern. This project helps to analyse the same using NDSAP portal's data of 435743 records.
+- **Haberman-Survival-Data-Analysis:** The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
 
 ## Technologies Used
 
